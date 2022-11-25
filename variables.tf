@@ -1,7 +1,7 @@
 variable "bucket_name" {
     description   = "my static website S3 bucket name"
     type          = string
-    default = "newbucketcloudfr32"
+    default = "newbucketcloudfr32testing"
 }
 
 variable "endpoint" {
